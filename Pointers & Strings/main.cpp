@@ -98,7 +98,6 @@ void  first(char * myString)
 			*(sPtr+1) = toupper (*(sPtr+1));
 			}
 	  }
-    //Your first function needs to uppercase if there is just one space, then toupper() the next character.  No need to check that it is not a space.
     return;
 	}
 
